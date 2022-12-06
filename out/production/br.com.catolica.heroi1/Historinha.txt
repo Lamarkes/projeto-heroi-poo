@@ -1,0 +1,21 @@
+ÚLTIMA NOTA - Programação Orientada a Objetos
+
+Historinha:
+Nosso herói(model) saiu em uma aventura para salvar o mundo das mãos do maior vilão(model) de todos,
+ele só pode usar 2 ferramentas(foice, machado), mas ele carrega uma bolsa(arrayList) com
+alguns itens(hashmap) para ajudar em sua aventura.
+
+O Herói deve possuir atributos como nome, nivel de forca, nível de vida ferramentas e bolsa;-> atributos heroi
+
+O Vilão deve possuir atributos como nome, nível de força; -> atributos vilao
+
+Abstraia as informações do texto para criar um sistema feito em Java que seja capaz de
+contemplar a historinha acima.
+
+Obrigatório:
+Utilizar DAO e ArrayList
+Utilizar S.O.L.I.D
+HashMap
+Inversão de Dependência
+Interfaces
+Organização de código e projeto
